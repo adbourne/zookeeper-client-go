@@ -1,2 +1,3 @@
 # zookeeper-client-go
-A simple Apache Zookeeper client written natively in golang.
+## This project is a work in progress!
+A simple Apache Zookeeper client written in golang.
